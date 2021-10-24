@@ -18,3 +18,6 @@
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0se-Luiz&layout=compact&langs_count=10&theme=dark"></img> -->
 </p>
 <br>
+
+
+### Qoute: what I don't know, I search on GooGle =)
