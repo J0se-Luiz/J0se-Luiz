@@ -2,7 +2,7 @@
 # Hi, I'm Luiz! :)
 
 [![Github]()](linkgithub)
-[![Linkedin]()](linklinkedin)
+[![Linkedin]()](www.linkedin.com/in/luiz-santos-516182216)
 
 
 ### About me
