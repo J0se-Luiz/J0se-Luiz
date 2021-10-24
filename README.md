@@ -1,17 +1,20 @@
   
 # Hi, I'm Luiz! :)
 
-[![Github]()](linkgithub)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/J0se-Luiz)](https://github.com/J0se-Luiz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-santos-516182216//)](https://www.linkedin.com/in/luiz-santos-516182216/)
-<!-- [![Linkedin]()](www.linkedin.com/in/luiz-santos-516182216) -->
 
 
 ### About me
- [iii]() Front [iiii]().
+I currently work with React/Styled Components/Next/ApolloGraphql/Story Book/Jest.
+Motivated by new experiences and new knowledge, but always focused on improving certain subjects/technologies.
+Passionate about technology since when I understand myself by people =)
 
-- [Courses]() 👨🏼‍🏫 - 
+### Courses
+- [Alura](https://cursos.alura.com.br/user/joseluizsantos231293/fullCertificate/1cf1fd2c9b77cd6df85a1f9691f64a4a) 👨🏼‍🏫 - These are technical courses in various technologies, such as React, Styled Components, Html, CSS, JavaScript, Git and more
+
 <!-- - [Blog]() ✍🏼 - -->
-- [Website]) 💻 -
+<!-- - [Website]) 💻 - -->
 
 ## Data and Statistics
 <p align="left"> 
