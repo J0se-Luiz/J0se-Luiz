@@ -11,7 +11,7 @@ Motivated by new experiences and new knowledge, but always focused on improving 
 Passionate about technology since when I understand myself by people =)
 
 ### Courses
-- [Alura](https://cursos.alura.com.br/user/joseluizsantos231293/fullCertificate/1cf1fd2c9b77cd6df85a1f9691f64a4a) 👨🏼‍🏫 - These are technical courses in various technologies, such as React, Styled Components, Html, CSS, JavaScript, Git and more
+- [Alura](https://cursos.alura.com.br/user/joseluizsantos231293/fullCertificate/1cf1fd2c9b77cd6df85a1f9691f64a4a) - These are technical courses in various technologies, such as React, Styled Components, Html, CSS, JavaScript, Git and more
 
 <!-- - [Blog]() ✍🏼 - -->
 <!-- - [Website]) 💻 - -->
