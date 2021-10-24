@@ -2,7 +2,7 @@
 # Hi, I'm Luiz! :)
 
 [![Github]()](linkgithub)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/luiz-santos-516182216/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-santos-516182216//)](https://www.linkedin.com/in/luiz-santos-516182216/)
 <!-- [![Linkedin]()](www.linkedin.com/in/luiz-santos-516182216) -->
 
 
