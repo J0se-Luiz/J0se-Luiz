@@ -1,16 +1,20 @@
-### Hi there 👋
+  
+# Hi, I'm Luiz! :)
 
-<!--
-**J0se-Luiz/J0se-Luiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github]()](linkgithub)
+[![Linkedin]()](linklinkedin)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+ [iii]() Front [iiii]().
+
+- [Courses]() 👨🏼‍🏫 - 
+<!-- - [Blog]() ✍🏼 - -->
+- [Website]) 💻 -
+
+## Data and Statistics
+<p align="left"> 
+  <img height='165' src="https://github-readme-stats.vercel.app/api?username=J0se-Luiz&show_icons=true&theme=dark&hide=contribs,prs&count_private=true"></img>
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0se-Luiz&layout=compact&langs_count=10&theme=dark"></img> -->
+</p>
+<br>
