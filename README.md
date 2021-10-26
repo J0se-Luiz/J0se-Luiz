@@ -26,4 +26,4 @@ Passionate about technology since when I understand myself by people =)
 <br>
 
 
-### Qoute: what I don't know, I search on GooGle =)
+### Qoute: what I don't know, I search on Google =)
