@@ -27,3 +27,6 @@ Passionate about technology since when I understand myself by people =)
 
 
 ### Qoute: what I don't know, I search on Google =)
+  <p align="center">
+    Número de visitas ao perfil do Github: <br> <img src="https://profile-counter.glitch.me/J0se-Luiz/count.svg" alt="Numero de visitas">
+</p>
