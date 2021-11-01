@@ -25,6 +25,8 @@ Passionate about technology since when I understand myself by people =)
 </p>
 <br>
 
+<!-- ![Snake animation](https://github.com/J0se-Luiz/J0se-Luiz/blob/output/github-contribution-grid-snake.svg) -->
+
 
 ### Qoute: what I don't know, I search on Google =)
   <p align="center">
