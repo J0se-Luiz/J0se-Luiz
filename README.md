@@ -1,7 +1,7 @@
   
 # Hi, I'm Luiz! :)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/J0se-Luiz)](https://github.com/J0se-Luiz)
+<!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/J0se-Luiz)](https://github.com/J0se-Luiz) -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-santos-516182216//)](https://www.linkedin.com/in/luiz-santos-516182216/)
 
 
