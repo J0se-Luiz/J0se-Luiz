@@ -18,17 +18,19 @@ Passionate about technology since when I understand myself by people =)
 <!-- - [Blog]() ✍🏼 - -->
 <!-- - [Website]) 💻- -->
 
-## Data and Statistics
+<!-- ## Data and Statistics
 <p align="left"> 
   <img height='165' src="https://github-readme-stats.vercel.app/api?username=J0se-Luiz&show_icons=true&theme=dark&hide=contribs,prs&count_private=true"></img>
+ -->
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0se-Luiz&layout=compact&langs_count=10&theme=dark"></img> -->
-</p>
-<br>
+
+<!-- </p>
+<br> -->
 
 <!-- ![Snake animation](https://github.com/J0se-Luiz/J0se-Luiz/blob/output/github-contribution-grid-snake.svg) -->
 
 
-### Qoute: what I don't know, I search on Google =)
+<!-- ### Qoute: what I don't know, I search on Google =)
   <p align="center">
     Number of visits to Github profile: <br> <img src="https://profile-counter.glitch.me/J0se-Luiz/count.svg" alt="Numero de visitas">
-</p>
+</p> -->
